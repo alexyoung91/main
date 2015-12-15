@@ -32,4 +32,8 @@
 *.dSYM/
 
 # Build files
-main
+c/main
+cpp/main
+
+# Mac OS X
+.DS_Store

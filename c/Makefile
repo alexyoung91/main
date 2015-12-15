@@ -1,6 +1,4 @@
-#CC = gcc
 CFLAGS = -fdiagnostics-color=always -std=gnu99 -g -ggdb -Wall -Wextra -pedantic -m64
-
 PROGRAM = main
 
 all: $(PROGRAM)
